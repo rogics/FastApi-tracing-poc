@@ -28,7 +28,7 @@ project/
 1. **Clone the Repository**
 
    ```bash
-   git clone github.com:rogics/FastApi-tracing-poc.git
+   git clone [github.com:rogics/FastApi-tracing-poc.git](https://github.com/rogics/FastApi-tracing-poc.git)
    cd project
    ```
 
